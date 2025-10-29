@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rostov's Fat Broker Withdrawal",
+  "description": "A web application to submit a withdrawal request from Rostov's Fat Broker, a fictional premium brokerage firm. It features a stylish form and uses the Gemini API to generate personalized confirmation messages.",
+  "requestFramePermissions": []
+}
